@@ -10,6 +10,12 @@ Außerdem ist aufgeführt, ob es ein Tool (🔨), eine Sammlung von Vorlagen (�
 
 ## Code
 
+- (🔨, A/F/P) [VSCode](https://code.visualstudio.com/) - Eine IDE mit guter Integration und Code Completion.
+
+- (✏️, A/F/P) [CodeAcademy](https://www.codecademy.com/) - Lerne verschiedene Programmiersprachen kostenlos mit einfachen Tutorials.
+
+- (✏️, F/P) [FreeCodeCamp](https://www.freecodecamp.org/) - Baue verschiedene Projekte und bekomme dafür Zertifikate
+
 ## Design
 
 ## Produktentwicklung
