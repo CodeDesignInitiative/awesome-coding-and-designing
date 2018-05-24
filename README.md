@@ -12,6 +12,18 @@ Außerdem ist aufgeführt, ob es ein Tool (🔨), eine Sammlung von Vorlagen (�
 
 ## Design
 
+- (🔨*A*/*F*) [Piskel](https://www.piskelapp.com/) - Web-Tool zum erstellen von Pixel-Art (Block-Grafik)
+
+- (🔨*A*/*F*/*P*) [Blender](https://www.blender.org/) - 3D-Programm
+
+## Gaming 🎮
+
+- (🔨*A*/*F*/*P*) [Unity 3D](https://unity3d.com/) - Spiele-Engine für 3D und 2D Spiele.
+
+- (🔨*F*/*P*) [Unreal Engine](https://www.unrealengine.com/) - Spiele-Engine für 3D Spiele.
+
+- (🔨*A*/*F*) [Piskel](https://www.piskelapp.com/) - Web-Tool zum erstellen von Pixel-Art (Block-Grafik)
+
 ## Produktentwicklung
 
 ### Prototypen
