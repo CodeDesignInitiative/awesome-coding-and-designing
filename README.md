@@ -30,9 +30,9 @@ Außerdem ist aufgeführt, ob es ein Tool (🔨), eine Sammlung von Vorlagen (�
 
 Wenn man schnell ein Produkt entwickeln will, entwirft man einen Prototypen. Manche Tools sind nur für Design geeignet, manche 
 
--  (🔨,A/F/P, :us:) [Figma](https://www.figma.com/) - Prototypen und Designs online entwickeln.Man kann einen Prototypen teilen und zu zweit kostenlos daran arbeiten. Wenn man mit noch mehr Leuten gleichzeitig daran arbeiten will, meldet man sich mit der gleichen Mailadresse und Passwort an
-- (🖼,A/F/P, :us:) [SketchAppSources](https://www.sketchappsources.com/) - Vorlagensammlung für App-Prototypen ([Bsp](https://www.sketchappsources.com/free-source/3320-material-design-widgets-ui-kit-sketch-freebie-resource.html)). Ihr könnt die Vorlagen in *Figma* importieren und daran weiterarbeiten 
-- (🔨,A/F/P, :us:) [Atomic](https://atomic.io/) - Alternative zu Figma, auch designorientiert, aber mit mehr "Programmierlogik" 
+-  (🔨, A/F/P, :us:) [Figma](https://www.figma.com/) - Prototypen und Designs online entwickeln.Man kann einen Prototypen teilen und zu zweit kostenlos daran arbeiten. Wenn man mit noch mehr Leuten gleichzeitig daran arbeiten will, meldet man sich mit der gleichen Mailadresse und Passwort an
+- (🖼, A/F/P, :us:) [SketchAppSources](https://www.sketchappsources.com/) - Vorlagensammlung für App-Prototypen ([Bsp](https://www.sketchappsources.com/free-source/3320-material-design-widgets-ui-kit-sketch-freebie-resource.html)). Ihr könnt die Vorlagen in *Figma* importieren und daran weiterarbeiten 
+- (🔨, A/F/P, :us:) [Atomic](https://atomic.io/) - Alternative zu Figma, auch designorientiert, aber mit mehr "Programmierlogik" 
 
 ## Contribute
 
