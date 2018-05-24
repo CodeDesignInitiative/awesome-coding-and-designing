@@ -22,6 +22,10 @@ Außerdem ist aufgeführt, ob es ein Tool (🔨), eine Sammlung von Vorlagen (�
 
 - (✏️, A/F/P, :us:) [javascript.info](https://javascript.info/) - Einfache und schwere Tutorials für JavaScript mit einfachen Erklärungen. (Leider nur auf Englisch)
 
+- (🖼, A/F/P, :us:) [htmlreference.io](https://htmlreference.io/) - Alle HTML visuell verfügbar.
+
+- (🖼, A/F/P, :us:) [cssreference.io](https://cssreference.io/) - Alle CSS Styles visuell verfügbar und anschaubar.
+
 ## Design
 
 ## Produktentwicklung
