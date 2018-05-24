@@ -12,9 +12,15 @@ Außerdem ist aufgeführt, ob es ein Tool (🔨), eine Sammlung von Vorlagen (�
 
 - (🔨, A/F/P) [VSCode](https://code.visualstudio.com/) - Eine IDE mit guter Integration und Code Completion.
 
+- (🖼, A/F/P) [VSCode Basic Tips](https://medium.com/@martin_betz/how-to-use-visual-studio-code-for-web-design-f2a2450f54d9) - How to use Visual Studio Code for web design
+
+- (🖼, A/F/P) [Awesome VSCode Plugins](https://codeburst.io/top-javascript-vscode-extensions-for-faster-development-c687c39596f5) - Awesome VSCode Plugins für schnelleres Entwickeln
+
 - (✏️, A/F/P) [CodeAcademy](https://www.codecademy.com/) - Lerne verschiedene Programmiersprachen kostenlos mit einfachen Tutorials.
 
 - (✏️, F/P) [FreeCodeCamp](https://www.freecodecamp.org/) - Baue verschiedene Projekte und bekomme dafür Zertifikate
+
+- (✏️, A/F/P) [javascript.info](https://javascript.info/) - Einfache und schwere Tutorials für JavaScript mit einfachen Erklärungen. (Leider nur auf Englisch)
 
 ## Design
 
