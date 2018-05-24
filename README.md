@@ -8,6 +8,34 @@ In Klammern steht immer, für welchen Kenntnisstand geeignet ist:
 
 Außerdem ist aufgeführt, ob es ein Tool (🔨), eine Sammlung von Vorlagen (🖼) oder ein Tutorial (Text: ✏️, Video: 🖥) ist.
 
+## Wie lerne ich nach dem Camp weiter?
+
+- [ ] **Such dir ein Ziel!** Welches Projekt möchtest du umsetzen?
+- [ ] **Finde heraus, wie du am besten lernst** 
+(du wirst viel Zeit alleine probieren und lernen, also müssen deine Lernquellen gut sein)
+- [ ] **Nutz die Code+Design Community**
+	- [ ] Stellt viele Fragen und zwar im Channel `#community`
+	- [ ] Tretet Lerngruppen-Channels bei und fragt dort: `#masters-html, #masters-javascript, #masters-gamedev`
+- [ ] **Finde heraus, ob du eher mit *Video* oder *Texte* (Tutorials/Bücher) lernen kannst**
+- [ ] **Nutze die [Awesome Coding&Designing Liste](https://github.com/CodeDesignInitiative/awesome-coding-and-designing)**, um Lernquellen zu finden, die Code+Design Coaches empfehlen
+- [ ]  **Finde das richtige Video** (bei Udemy oder Youtube) oder Tutorial/Buch
+	- [ ] Wieviele Bewertungen hat Lernquelle?
+	- [ ] Wie gut ist die Bewertung/die Kommentare?
+	- [ ] Wird im Kurs ein Projekt umgesetzt? (wenig Theorie, viel Praxis)
+	- [ ] Verstehst du das Inhaltsverzeichnis? (Nein? Dann wirst du den Kurs nicht verstehen)
+	- [ ] Ist das Vorschauvideo gut? (Du wirst viel Zeit damit verbringen, also frage dich, ob die Stimme, die Sprechgeschwindigkeit, der Humor, der Lehrstil zu dir passt)
+- [ ] **Nutze Lern-Communities im Netz**
+	- [ ] Suche bei Google nach `Forum/Community/Slack` plus deine Technologie, also z.B. `forum php`
+- [ ] **Stelle gute Fragen in Lern-Communities** 
+	- [ ] Schreibe eine konkrete Überschrift (NIcht: `Warum geht gar nichts?`, Sondern: `Warum bekomme ich Fehler 500 bei API-Anfrage über PHP 7.2?`)
+	- [ ] Beschreibe das Problem so spezifisch und allgemeinverständlich wie möglich (Analogie: Erkläre das Problem deiner Mutter)
+	- [ ] Erstelle ein minimales Fehlerbeispiel (also nur den Abschnitt des Fehlers) und kopiere es in Online-Editoren (`codepen.io`, `jsbin.com`) und teile die URL in deiner Frage
+	- [ ] Schreibe, was du schon alles probiert hast
+- [ ]  **Finde oder gründe lokale Lerncommunities**
+	- [ ] Über Meetup.com kann man Treffen für Programmierer/Designer finden, leider häufig nur für Erwachsene, trotzdem probieren!
+	- [ ] Es fehlen Meetups für Jugendliche. Wir helfen euch gerne, lokale Treffen für technikbegeisterte Jugendliche zu organisieren!
+
+
 ## Code 💻
 
 - (🔨, A/F/P, :us:) [VSCode](https://code.visualstudio.com/) - Eine IDE mit guter Integration und Code Completion.
