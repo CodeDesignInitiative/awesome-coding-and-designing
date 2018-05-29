@@ -43,6 +43,7 @@ Außerdem ist aufgeführt, ob es ein Tool (🔨), eine Sammlung von Vorlagen (�
 - (🖼, A/F/P, :us:) [Awesome VSCode Plugins](https://codeburst.io/top-javascript-vscode-extensions-for-faster-development-c687c39596f5) - Awesome VSCode Plugins für schnelleres Entwickeln
 - (✏️, A/F/P, :us:) [CodeAcademy](https://www.codecademy.com/) - Lerne verschiedene Programmiersprachen kostenlos mit einfachen Tutorials.
 - (✏️, F/P, :us:) [FreeCodeCamp](https://www.freecodecamp.org/) - Baue verschiedene Projekte und bekomme dafür Zertifikate
+- (✏️, A/F/P, :us:) [Udacity](https://de.udacity.com/course/all) - Lerne verschieden Programmiersprachen, Frameworks und Tools. Diese Tutorials wurden teilweise in Zusammenarbeit mit Firmen wie Google, Facebook und Amazon erstellt und orientieren sich daher nah an der Berufspraxis.
 - (✏️, A/F/P, :us:) [javascript.info](https://javascript.info/) - Einfache und schwere Tutorials für JavaScript mit einfachen Erklärungen. (Leider nur auf Englisch)
 
 ### HTML/CSS
