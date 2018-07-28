@@ -38,6 +38,7 @@ Außerdem ist aufgeführt, ob es ein Tool (🔨), eine Sammlung von Vorlagen (�
 
 ## Code 💻
 
+- (✏️, A/F, :us:) [GitHub Learning Lab](https://lab.github.com/courses) Lerne verschiedene Sachen rund um Open Source und git.
 - (🔨, A/F/P, :us:) [VSCode](https://code.visualstudio.com/) - Eine IDE mit guter Integration und Code Completion.
 - (🖼, A/F/P, :us:) [VSCode Basic Tips](https://medium.com/@martin_betz/how-to-use-visual-studio-code-for-web-design-f2a2450f54d9) - How to use Visual Studio Code for web design
 - (🖼, A/F/P, :us:) [Awesome VSCode Plugins](https://codeburst.io/top-javascript-vscode-extensions-for-faster-development-c687c39596f5) - Awesome VSCode Plugins für schnelleres Entwickeln
