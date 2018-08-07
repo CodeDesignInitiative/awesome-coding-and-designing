@@ -44,12 +44,17 @@ Außerdem ist aufgeführt, ob es ein Tool (🔨), eine Sammlung von Vorlagen (�
 - (✏️, A/F/P, :us:) [CodeAcademy](https://www.codecademy.com/) - Lerne verschiedene Programmiersprachen kostenlos mit einfachen Tutorials.
 - (✏️, F/P, :us:) [FreeCodeCamp](https://www.freecodecamp.org/) - Baue verschiedene Projekte und bekomme dafür Zertifikate
 - (✏️, A/F/P, :us:) [Udacity](https://de.udacity.com/course/all) - Lerne verschieden Programmiersprachen, Frameworks und Tools. Diese Tutorials wurden teilweise in Zusammenarbeit mit Firmen wie Google, Facebook und Amazon erstellt und orientieren sich daher nah an der Berufspraxis.
-- (✏️, A/F/P, :us:) [javascript.info](https://javascript.info/) - Einfache und schwere Tutorials für JavaScript mit einfachen Erklärungen. (Leider nur auf Englisch)
 
 ### HTML/CSS
 
 - (🖼, A/F/P, :us:) [htmlreference.io](https://htmlreference.io/) - Alle HTML visuell verfügbar.
 - (🖼, A/F/P, :us:) [cssreference.io](https://cssreference.io/) - Alle CSS Styles visuell verfügbar und anschaubar.
+
+### JavaScript
+
+- (✏️, A/F/P, :us:) [javascript.info](https://javascript.info/) - Einfache und schwere Tutorials für JavaScript mit einfachen Erklärungen. (Leider nur auf Englisch)
+- (✏️, A/F/P, :us:) [JS in 14 minutes](https://jgthms.com/javascript-in-14-minutes/) - Einfaches Tutorial für Einsteiger, direkt im Browser.
+- (🖥, A/F/P, :us:) [Practical JavaScript](https://watchandcode.com/p/practical-javascript) - Hervorragender Videokurs für JavaScript-Beginner, in dem man direkt eine ToDo Liste baut. Empfehlung!
 
 ## Design 🖌
 
