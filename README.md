@@ -38,6 +38,7 @@ Außerdem ist aufgeführt, ob es ein Tool (🔨), eine Sammlung von Vorlagen (�
 
 ## Code 💻
 
+- (✏️, A/F, :us:) [GitHub Learning Lab](https://lab.github.com/courses) Lerne verschiedene Sachen rund um Open Source und git.
 - (🔨, A/F/P, :us:) [VSCode](https://code.visualstudio.com/) - Eine IDE mit guter Integration und Code Completion.
 - (🖼, A/F/P, :us:) [VSCode Basic Tips](https://medium.com/@martin_betz/how-to-use-visual-studio-code-for-web-design-f2a2450f54d9) - How to use Visual Studio Code for web design
 - (🖼, A/F/P, :us:) [Awesome VSCode Plugins](https://codeburst.io/top-javascript-vscode-extensions-for-faster-development-c687c39596f5) - Awesome VSCode Plugins für schnelleres Entwickeln
@@ -52,6 +53,12 @@ Außerdem ist aufgeführt, ob es ein Tool (🔨), eine Sammlung von Vorlagen (�
 - (🖼, A/F/P, :us:) [htmlreference.io](https://htmlreference.io/) - Alle HTML visuell verfügbar.
 - (🖼, A/F/P, :us:) [cssreference.io](https://cssreference.io/) - Alle CSS Styles visuell verfügbar und anschaubar.
 - (🔨, A/F, :us:) [Mozilla Thimble](https://thimble.mozilla.org/) - Thimble ist ein Online-Quelltext-Editor, mit den Sie ganz einfach Ihre eigenen Webseiten erstellen und veröffentlichen können, wobei Sie gleichzeitig HTML, CSS & JavaScript lernen können.
+
+### JavaScript
+
+- (✏️, A/F/P, :us:) [javascript.info](https://javascript.info/) - Einfache und schwere Tutorials für JavaScript mit einfachen Erklärungen. (Leider nur auf Englisch)
+- (✏️, A/F/P, :us:) [JS in 14 minutes](https://jgthms.com/javascript-in-14-minutes/) - Einfaches Tutorial für Einsteiger, direkt im Browser.
+- (🖥, A/F/P, :us:) [Practical JavaScript](https://watchandcode.com/p/practical-javascript) - Hervorragender Videokurs für JavaScript-Beginner, in dem man direkt eine ToDo Liste baut. Empfehlung!
 
 ## Design 🖌
 
