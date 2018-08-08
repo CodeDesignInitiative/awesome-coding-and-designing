@@ -45,11 +45,13 @@ Außerdem ist aufgeführt, ob es ein Tool (🔨), eine Sammlung von Vorlagen (�
 - (✏️, F/P, :us:) [FreeCodeCamp](https://www.freecodecamp.org/) - Baue verschiedene Projekte und bekomme dafür Zertifikate
 - (✏️, A/F/P, :us:) [Udacity](https://de.udacity.com/course/all) - Lerne verschieden Programmiersprachen, Frameworks und Tools. Diese Tutorials wurden teilweise in Zusammenarbeit mit Firmen wie Google, Facebook und Amazon erstellt und orientieren sich daher nah an der Berufspraxis.
 - (✏️, A/F/P, :us:) [javascript.info](https://javascript.info/) - Einfache und schwere Tutorials für JavaScript mit einfachen Erklärungen. (Leider nur auf Englisch)
+- (🔨, A/F/P, :us:) [Glitch](https://glitch.com/) - Glitch is the friendly community where you'll build the app of your dreams
 
 ### HTML/CSS
 
 - (🖼, A/F/P, :us:) [htmlreference.io](https://htmlreference.io/) - Alle HTML visuell verfügbar.
 - (🖼, A/F/P, :us:) [cssreference.io](https://cssreference.io/) - Alle CSS Styles visuell verfügbar und anschaubar.
+- (🔨, A/F, :us:) [Mozilla Thimble](https://thimble.mozilla.org/) - Thimble ist ein Online-Quelltext-Editor, mit den Sie ganz einfach Ihre eigenen Webseiten erstellen und veröffentlichen können, wobei Sie gleichzeitig HTML, CSS & JavaScript lernen können.
 
 ## Design 🖌
 
