@@ -1,9 +1,6 @@
 ### Was würdest du gerne hinzufügen?
 
-- [ ] Tool
-- [ ] Tutorial
-- [ ] Vorlage
+- [ ] Tool/Tutorial immer am Ende einer Liste hinzufügen
+- [ ] [Checkliste für akzeptierte Tools und Tutorials beachten](/blob/master/CONTRIBUTING.md)
 
-### Wie heißt das Tutorial / Tool? (Link)
-
-### Wofür kann man es nutzen und warum ist es cool?
+Der Pull Request wird nur akzeptiert, wenn alle Checkboxen geklickt sind.
