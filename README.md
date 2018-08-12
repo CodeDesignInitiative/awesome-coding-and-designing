@@ -96,4 +96,4 @@ Wenn man schnell ein Produkt entwickeln will, entwirft man einen Prototypen. Man
 
 - Dein Lieblingstool fehlt?
 - Füge es einfach hinzu
-- Folge dafür [diesen Hinweisen](/blob/master/CONTRIBUTING.md)
+- Folge dafür [diesen Hinweisen](/CONTRIBUTING.md)
