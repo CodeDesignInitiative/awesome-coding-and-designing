@@ -91,20 +91,9 @@ Wenn man schnell ein Produkt entwickeln will, entwirft man einen Prototypen. Man
 - (🖼, A/F/P, :us:) [SketchAppSources](https://www.sketchappsources.com/) - Vorlagensammlung für App-Prototypen ([Bsp](https://www.sketchappsources.com/free-source/3320-material-design-widgets-ui-kit-sketch-freebie-resource.html)). Ihr könnt die Vorlagen in *Figma* importieren und daran weiterarbeiten 
 - (🔨, A/F/P, :us:) [Atomic](https://atomic.io/) - Alternative zu Figma, auch designorientiert, aber mit mehr "Programmierlogik" 
 
-## Contribute 🤔
 
-- Immer am Ende einer Liste hinzufügen
-- Welche Beiträge zu a, Tools und b, Tutorials sind für diese Liste erwünscht?
+## Tool/Tutorial hinzufügen
 
-
-### Tools 🔨
-
-- [ ] Mit Kommentar: a, Wofür kann man es nutzen und b, warum ist es cool
-- [ ] Man kann zusammen daran arbeiten
-- [ ] Läuft mindestens auf Windows und Mac
-
-### Tutorials 📜
-
-- [ ] Mit Kommentar: a, Wofür kann man es nutzen und b, warum ist es cool
-- [ ] Geschrieben auf Deutsch oder Englisch
-- [ ] Je praktischer und konkreter, desto besser
+- Dein Lieblingstool fehlt?
+- Füge es einfach hinzu
+- Folge dafür [diesen Hinweisen](/blob/master/CONTRIBUTING.md)
