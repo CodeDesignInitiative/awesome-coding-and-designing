@@ -93,14 +93,15 @@ Wenn man schnell ein Produkt entwickeln will, entwirft man einen Prototypen. Man
 
 ## Contribute 🤔
 
-Welche Beiträge zu a, Tools und b, Tutorials sind für diese Liste erwünscht?
+- Immer am Ende einer Liste hinzufügen
+- Welche Beiträge zu a, Tools und b, Tutorials sind für diese Liste erwünscht?
 
 
 ### Tools 🔨
 
 - [ ] Mit Kommentar: a, Wofür kann man es nutzen und b, warum ist es cool
 - [ ] Man kann zusammen daran arbeiten
-- [ ] Läuft mindestens auf Windows und Mac, idealerweise online
+- [ ] Läuft mindestens auf Windows und Mac
 
 ### Tutorials 📜
 
