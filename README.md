@@ -53,6 +53,10 @@ Außerdem ist aufgeführt, ob es ein Tool (🔨), eine Sammlung von Vorlagen (�
 - (🖼, A/F/P, :us:) [htmlreference.io](https://htmlreference.io/) - Alle HTML visuell verfügbar.
 - (🖼, A/F/P, :us:) [cssreference.io](https://cssreference.io/) - Alle CSS Styles visuell verfügbar und anschaubar.
 - (🔨, A/F, :us:) [Mozilla Thimble](https://thimble.mozilla.org/) - Thimble ist ein Online-Quelltext-Editor, mit den Sie ganz einfach Ihre eigenen Webseiten erstellen und veröffentlichen können, wobei Sie gleichzeitig HTML, CSS & JavaScript lernen können.
+- (🔨, A/F/P, :us:) [Bootstrap Beispiele](https://getbootstrap.com/docs/4.1/examples/)
+- (🔨, A/F/P, :us:) [Bootstrap Cheatsheet](https://hackerthemes.com/bootstrap-cheatsheet/)
+- (🔨, A/F/P, :us:) [a-frame AR/VR Markup](https://aframe.io/)  A web framework for building virtual reality experiences. Make WebVR with HTML and Entity-Component. Works on Vive, Rift, Daydream, GearVR, desktop
+
 
 ### JavaScript
 
