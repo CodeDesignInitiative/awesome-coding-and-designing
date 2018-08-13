@@ -68,6 +68,13 @@ Außerdem ist aufgeführt, ob es ein Tool (🔨), eine Sammlung von Vorlagen (�
 - (✏️, A/F/P, :us:) [JS in 14 minutes](https://jgthms.com/javascript-in-14-minutes/) - Einfaches Tutorial für Einsteiger, direkt im Browser.
 - (🖥, A/F/P, :us:) [Practical JavaScript](https://watchandcode.com/p/practical-javascript) - Hervorragender Videokurs für JavaScript-Beginner, in dem man direkt eine ToDo Liste baut. Empfehlung!
 
+
+### Apps
+
+- (🔨, A, :us:) [Thunkable](https://thunkable.com/#/) - super einfach Apps für Android und iOS entwickeln
+- (🔨, A/F/P, :us:) [NativeScript](https://play.nativescript.org/) - im Browser Apps für Android und iOS entwickeln. Mit JavaScript, VueJS oder Angular.
+- (✏️, A/F/P, :us:) [NativeScript Samples](https://market.nativescript.org/?tab=samples&framework=angular&category=all_samples) - Vorlagen für NativeScript, etwa zu [Login Form](https://play.nativescript.org/?template=play-ng&id=Hqp5UQ&v=320) und [ListView](https://play.nativescript.org/?template=play-ng&id=TIzFdC&v=4) 
+
 ## Design 🖌
 
 Programme zum erstellen von Grafik oder 3D-Objekten
