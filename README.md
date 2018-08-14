@@ -85,8 +85,8 @@ Programme zum erstellen von Grafik oder 3D-Objekten
 ## Gaming 🎮
 
 - (🔨*A*/*F*/*P*) [Unity 3D](https://unity3d.com/) - Spiele-Engine für 3D- und 2D-Spiele.
-- (🔨*A*/*F*/*P*) [PhaserJS](https://phaser.io/) - 2D-Spiele mit JavaScript entwickeln. Leichter als Unity!
-- (🔨*A*/*F*/*P*) [LÖVE](https://love2d.org) - 2D-Browserspiele mit JavaScript oder TypeScript entwickeln.
+- (🔨*A*/*F*/*P*) [PhaserJS](https://phaser.io/) - Browserspiele mit JavaScript oder TypeScript entwickeln. Leichter als Unity!
+- (🔨*A*/*F*/*P*) [LÖVE](https://love2d.org) - 2D-Spiele mit Lua entwickeln.
 - (🔨*A*/*F*) [Construct 2](https://www.scirra.com/construct2) - Einfaches Tool für 2D Jump'n'Run-Spiele (Nur für Windows!)
 - (✏️, A/F/P, :us:) [Construct2 Tutorial für Jump'n'Run](https://www.scirra.com/tutorials/253/how-to-make-a-platform-game)
 - (🔨*F*/*P*) [Unreal Engine](https://www.unrealengine.com/) - Spiele-Engine für 3D Spiele.
