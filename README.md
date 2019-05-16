@@ -8,38 +8,6 @@ In Klammern steht immer, für welchen Kenntnisstand das Tool geeignet ist:
 
 Außerdem ist aufgeführt, ob es ein Tool (🔨), eine Sammlung von Vorlagen (🖼) oder ein Tutorial (Text: ✏️, Video: 🖥) ist.
 
-## Wie lerne ich digitale Tools (Coding, Design) und erstelle tolle digitale Projekte?
-
-- [ ] **Such dir ein Ziel!** Welches Projekt möchtest du umsetzen? Warum genau dieses?
-- [ ] **Suche das Tool, das dich schnell zum Ziel bringt** Nutze die Liste unten, um Tools zu finden, mit denen zu schnell zum Ziel kommst. 
-	- [ ] Nehme dir ein winziges Teilproblem deines Projektes 
-	- [ ] Wähle mindestens 3 Tools aus, von denen du glaubst, dass sie dir helfen können
-	- [ ] Probiere jedes Tool etwa 1 Stunde aus
-	- [ ] Benutze das Tool, das dir am besten liegt (einfache Installation, intutitive Oberfläche, gute Dokumentation) 
-- [ ] **Finde heraus, ob du eher mit *Video* oder *Texte* (Tutorials/Bücher) lernen kannst**
-	- [ ] Suche zu deinem Tool je Tutorials als Video und als Text
-	- [ ] Probiere beide aus und entscheide dann, was dir besser liegt
-	- [ ] Suche _unbedingt Tutorials auf English_, die besten und aktuellsten gibt es selten auf Deutsch!
-- [ ]  **Finde das richtige Video** (bei Udemy oder Youtube) oder Tutorial/Buch
-    - [ ] Wieviele Bewertungen hat Lernquelle?
-    - [ ] Wie gut ist die Bewertung/die Kommentare?
-    - [ ] Wird im Kurs ein Projekt umgesetzt? (wenig Theorie, viel Praxis)
-    - [ ] Verstehst du das Inhaltsverzeichnis? (Nein? Dann wirst du den Kurs nicht verstehen)
-    - [ ] Ist das Vorschauvideo gut? (Du wirst viel Zeit damit verbringen, also frage dich, ob die Stimme, die Sprechgeschwindigkeit, der Humor, der Lehrstil zu dir passt)
-- [ ] **Nutze die Code+Design Community**
-    - [ ] Stellt viele Fragen und zwar im Channel `#community`
-    - [ ] Tretet Lerngruppen-Channels bei und fragt dort: `#masters-html, #masters-javascript, #masters-gamedev`
-- [ ] **Nutze Lern-Communities im Netz**
-    - [ ] Suche bei Google nach `Forum/Community/Slack` plus deine Technologie, also z.B. `forum php`
-- [ ] **Stelle gute Fragen in Lern-Communities** 
-    - [ ] Schreibe eine konkrete Überschrift (Nicht: `Warum geht gar nichts?`, Sondern: `Warum bekomme ich Fehler 500 bei API-Anfrage mit Bibliothek guzzle, PHP 7.2?`)
-    - [ ] Beschreibe das Problem so spezifisch und allgemeinverständlich wie möglich (Analogie: Erkläre das Problem deiner Mutter)
-    - [ ] Erstelle ein minimales Fehlerbeispiel (also nur den Abschnitt des Fehlers) und kopiere es in Online-Editoren (`codepen.io`, `jsbin.com`) und teile die URL in deiner Frage
-    - [ ] Schreibe, was du schon alles probiert hast
-- [ ]  **Finde oder gründe lokale Lerncommunities**
-    - [ ] Über Meetup.com kann man Treffen für Programmierer/Designer finden, leider häufig nur für Erwachsene, trotzdem probieren!
-    - [ ] Es fehlen Meetups für Jugendliche. Wir helfen euch gerne, lokale Treffen für technikbegeisterte Jugendliche zu organisieren!
-
 ## Code 💻
 
 - (✏️, A/F, :us:) [GitHub Learning Lab](https://lab.github.com/courses) Lerne verschiedene Sachen rund um Open Source und git.
