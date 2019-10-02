@@ -22,7 +22,7 @@ Außerdem ist aufgeführt, ob es ein Tool (🔨), eine Sammlung von Vorlagen (�
 - (🔨, A/F/P, :us:) [Glitch](https://glitch.com/) - Glitch is the friendly community where you'll build the app of your dreams
 - (✏️, F/P, :us:) [FullStack Open](https://fullstackopen.com/en/) - Learn React, Redux, Node.js, MongoDB, and GraphQL in one go!
 - (🖥, A/F, :us:) [CS50's Introduction to Computer Science](https://www.edx.org/course/cs50s-introduction-to-computer-science) - An introduction to the intellectual enterprises of computer science and the art of programming by Harvard's CS staff!
-- () [Scrimba](https://scrimba.com/) - Interactive video tutorials on everythin web-related like HTML, CSS, JS or React.
+- (🖥, A/F, :us:) [Scrimba](https://scrimba.com/) - Interactive video tutorials on everythin web-related like HTML, CSS, JS or React.
 
 ### HTML/CSS
 
